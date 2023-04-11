@@ -22,7 +22,7 @@
       "text": "Learn Redux Basics",
       "completed": true,
       "id": 4,
-      "color": "red"
+      "color": "yellow"
     },
     {
       "text": "Learn Redux fundamentals",
@@ -32,31 +32,37 @@
     },
     {
       "text": "learn Redux",
-      "completed": false,
-      "id": 6
+      "completed": true,
+      "id": 6,
+      "color": "green"
     },
     {
       "text": "Learn Redux Toolkit",
-      "completed": false,
-      "id": 7
+      "completed": true,
+      "id": 7,
+      "color": "green"
     },
     {
       "text": "Test",
-      "completed": false,
-      "id": 8
+      "completed": true,
+      "id": 8,
+      "color": "red"
     },
     {
       "text": "hdjhdjhdjsdh",
-      "completed": false,
-      "id": 9
+      "completed": true,
+      "id": 9,
+      "color": "green"
     },
     {
-      "id": 10
+      "id": 10,
+      "color": "green"
     },
     {
       "text": "learn redux from lws",
-      "completed": false,
-      "id": 11
+      "completed": true,
+      "id": 11,
+      "color": "green"
     }
   ]
 }
