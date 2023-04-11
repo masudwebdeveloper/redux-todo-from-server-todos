@@ -49,16 +49,6 @@
       "color": "red"
     },
     {
-      "text": "hdjhdjhdjsdh",
-      "completed": true,
-      "id": 9,
-      "color": "green"
-    },
-    {
-      "id": 10,
-      "color": "green"
-    },
-    {
       "text": "learn redux from lws",
       "completed": true,
       "id": 11,
