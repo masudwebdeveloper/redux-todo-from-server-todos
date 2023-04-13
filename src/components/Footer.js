@@ -1,6 +1,6 @@
 import { useDispatch, useSelector } from "react-redux";
 import { colorChanged, statusChanged } from "../redux/filters/actions";
-
+// this is footer section
 const numberOfTodos = (no_of_todos) => {
     switch (no_of_todos) {
         case 0:
